@@ -1,2 +1,2 @@
-## This repository contains my AI/ML projects
+## My repository of AI/ML code 
 
